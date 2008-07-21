@@ -1,14 +1,16 @@
 ##
 ## Do we need to explain this?
 ##
+## Reversal patch from "D. Joe Anderson" <deejoe@raccoon.com>
+##  in Bug #190455
+##
 $the_cow = <<EOC;
-   $thoughts
-    $thoughts              ....       
-           ........    .      
-          .            .      
-         .             .      
-.........              .......
-..............................
-
+       $thoughts
+        $thoughts  ....
+          .    ........
+          .            .
+          .             .
+    .......              .........
+    ..............................
 Elephant inside ASCII snake
 EOC

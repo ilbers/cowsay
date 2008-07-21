@@ -1,4 +1,4 @@
-#%BANGPERL%
+#!/usr/bin/perl
 
 ##
 ## Cowsay 3.03
@@ -16,7 +16,7 @@ $version = "3.03";
 $progname = basename($0);
 $eyes = "oo";
 $tongue = "  ";
-$cowpath = $ENV{'COWPATH'} || '%PREFIX%/share/cows';
+$cowpath = $ENV{'COWPATH'} || '/usr/share/cowsay/cows';
 @message = ();
 $thoughts = "";
 
@@ -106,6 +106,10 @@ sub maxlength {
 	$l = length $i;
 	$m = $l if ($l > $m);
     }
+##  maxlength patch from Jeronimo Pellegrini (Closes: #165218)
+    if ($m == -1) {
+	$m = 0;
+    }
     return $m;
 }
 
@@ -128,15 +132,16 @@ sub construct_balloon {
 	    @border = qw[ / \ \ / | | ];	
 	}
     }
+## no trailing spaces (#276144)
     push(@balloon_lines, 
-	" " . ("_" x $max2) . " \n" ,
+	" " . ("_" x $max2) . "\n" ,
 	sprintf($format, $border[0], $message[0], $border[1]),
 	(@message < 2 ? "" : 
 	    map { sprintf($format, $border[4], $_, $border[5]) } 
 		@message[1 .. $#message - 1]),
 	(@message < 2 ? "" : 
 	    sprintf($format, $border[2], $message[$#message], $border[3])),
-        " " . ("-" x $max2) . " \n"
+        " " . ("-" x $max2) . "\n"
     );
 }
 
