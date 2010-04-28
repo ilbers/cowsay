@@ -2,7 +2,7 @@ Source: cowsay
 Section: games
 Priority: optional
 Maintainer: Francois Marier <francois@debian.org>
-Build-Depends: debhelper (>= 5)
+Build-Depends: debhelper (>= 7)
 Homepage: http://www.nog.net/~tony/warez/cowsay.shtml
 Standards-Version: 3.8.4
 Vcs-Git: git://git.debian.org/git/collab-maint/cowsay.git
@@ -10,7 +10,7 @@ Vcs-Browser: http://git.debian.org/?p=collab-maint/cowsay.git;a=summary
 
 Package: cowsay
 Architecture: all
-Depends: ${perl:Depends}
+Depends: ${perl:Depends}, ${misc:Depends}
 Suggests: filters
 Description: A configurable talking cow
  Cowsay (or cowthink) will turn text into happy ASCII cows, with

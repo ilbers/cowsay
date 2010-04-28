@@ -18,7 +18,7 @@ clean:
 install: build
 	dh_testdir
 	dh_testroot
-	dh_clean -k
+	dh_prep
 	install -D cowsay debian/cowsay/usr/games/cowsay
 	install -d debian/cowsay/usr/share/cowsay
 	cp -a cows debian/cowsay/usr/share/cowsay
