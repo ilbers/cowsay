@@ -3,6 +3,7 @@ cowsay (3.03-10) unstable; urgency=low
   * Adopt this package (closes: #579367)
   * Acknowledge NMUs
     (closes: #480404, #480405, #452816, #367310, #404287)
+  * Add snowman cow (closes: #561531)
 
   * Move all customisations to separate DEP-3 patches
   * Add vcs-git fields
@@ -10,7 +11,7 @@ cowsay (3.03-10) unstable; urgency=low
   * Bump debhelper compatibility to 7
   * Move to 3.0 (quilt) source package format
 
- -- Francois Marier <francois@debian.org>  Wed, 28 Apr 2010 16:03:29 +1200
+ -- Francois Marier <francois@debian.org>  Wed, 28 Apr 2010 16:09:35 +1200
 
 cowsay (3.03-9.2) unstable; urgency=low
 
