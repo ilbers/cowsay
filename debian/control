@@ -1,7 +1,7 @@
 Source: cowsay
 Section: games
 Priority: optional
-Maintainer: Franz Pletz <fpletz@franz-pletz.org>
+Maintainer: Francois Marier <francois@debian.org>
 Build-Depends: debhelper (>= 5)
 Homepage: http://www.nog.net/~tony/warez/cowsay.shtml
 Standards-Version: 3.8.0
