@@ -1,8 +1,9 @@
 cowsay (3.03-10) unstable; urgency=low
 
   * Adopt this package (closes: #579367)
+  * Add vcs-git fields
 
- -- Francois Marier <francois@debian.org>  Wed, 28 Apr 2010 13:34:23 +1200
+ -- Francois Marier <francois@debian.org>  Wed, 28 Apr 2010 13:34:42 +1200
 
 cowsay (3.03-9.2) unstable; urgency=low
 

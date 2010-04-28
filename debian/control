@@ -5,6 +5,8 @@ Maintainer: Francois Marier <francois@debian.org>
 Build-Depends: debhelper (>= 5)
 Homepage: http://www.nog.net/~tony/warez/cowsay.shtml
 Standards-Version: 3.8.0
+Vcs-Git: git://git.debian.org/git/collab-maint/cowsay.git
+Vcs-Browser: http://git.debian.org/?p=collab-maint/cowsay.git;a=summary
 
 Package: cowsay
 Architecture: all
