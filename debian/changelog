@@ -1,3 +1,9 @@
+cowsay (3.03-11) unstable; urgency=low
+
+  * Fix tongue alignment problem in head-in cow. Thanks to Xin Ouch.
+
+ -- Francois Marier <francois@debian.org>  Wed, 16 Jun 2010 09:56:12 +1200
+
 cowsay (3.03-10) unstable; urgency=low
 
   * Adopt this package (closes: #579367)
