@@ -1,3 +1,10 @@
+cowsay (3.03+dfsg1-1) unstable; urgency=medium
+
+  * Removed cows from unknown artists and added authors of contributed
+    cow files to debian/copyright (closes: #592917, #367347)
+
+ -- Francois Marier <francois@debian.org>  Sun, 15 Aug 2010 15:53:19 -0400
+
 cowsay (3.03-11) unstable; urgency=low
 
   * Fix tongue alignment problem in head-in cow. Thanks to Xin Ouch.

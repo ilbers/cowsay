@@ -47,3 +47,63 @@ merchantability and/or fitness for a particular purpose, you will
 not find it here, because there is no such thing here.
 
 (3) I hate legalese.
+
+
+Contributed cow files
+---------------------
+
+cows/apt.cow:
+Copyright 2002 Steven Barker <scbarker@uiuc.edu>
+Released under the GNU General Public License
+
+cows/bong.cow:
+Copyright 1999 Lars Smith <lars@csua.berkeley.edu>
+Released under the same terms as cowsay
+
+cows/calvin.cow, cows/cock.cow:
+Copyright 2006 Krishna Kumar <krish.kumar@gmail.com>
+Released under the same terms as cowsay
+
+cows/dragon-and-cow.cow:
+Copyright 1999 kube@csua.berkeley.edu
+Released under the same terms as cowsay
+
+cows/duck.cow:
+Copyright 1999 Gürkan Sengün <gurkan@phys.ethz.ch>
+Released under the same terms as cowsay
+
+cows/flaming-sheep.cow:
+Copyright 1999 Geordan Rosario <geordan@csua.berkeley.edu>
+Released under the same terms as cowsay
+
+cows/gnu.cow, cows/suse.cow:
+Copyright 2006 Gerfried Fuchs <rhonda@deb.at>
+Released under the BSD License
+
+cows/mutilated.cow:
+Copyright 1999 aspolito@csua.berkeley.edu
+Released under the same terms as cowsay
+
+cows/skeleton.cow:
+Copyright 1999 {appel,kube,rowe}@csua.berkeley.edu
+Released under the same terms as cowsay
+
+cows/snowman.cow:
+Copyright 2009 chrysn <chrysn@fsfe.org>
+Released under the same terms as cowsay or cc-by-3.0, at your discretion
+
+cows/three-eyes.cow:
+Copyright 1999 dpetrou@csua.berkeley.edu
+Released under the same terms as cowsay
+
+cows/tux.cow:
+Copyright 1999 pborys@p-soft.silesia.linux.org.pl
+Released under the same terms as cowsay
+
+cows/vader.cow:
+Copyright 1999 geordan@csua.berkeley.edu
+Released under the same terms as cowsay
+
+cows/www.cow:
+Copyright 1999 lim@csua.berkeley.edu
+Released under the same terms as cowsay
