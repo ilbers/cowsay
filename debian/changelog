@@ -3,8 +3,9 @@ cowsay (3.03+dfsg1-1) unstable; urgency=medium
   * Removed cows from unknown artists and added authors of contributed
     cow files to debian/copyright (closes: #592917, #367347)
   * Mangle the debian version in the watch file
+  * Bump Standards-Version up to 3.9.1
 
- -- Francois Marier <francois@debian.org>  Wed, 18 Aug 2010 00:32:03 -0400
+ -- Francois Marier <francois@debian.org>  Wed, 18 Aug 2010 10:30:42 -0400
 
 cowsay (3.03-11) unstable; urgency=low
 
