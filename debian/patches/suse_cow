@@ -9,7 +9,7 @@ Author: Gerfried Fuchs <alfie@debian.org>
 @@ -0,0 +1,12 @@
 +## vim:ft=perl:
 +## SuSE thingy - (c) 2006 Gerfried Fuchs <rhonda@deb.at>
-+##                   distributed under the BSD licence
++##                   distributed under the WTFPLv2 license
 +##
 +$the_cow = <<"EOC";
 +  $thoughts
