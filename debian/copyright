@@ -93,6 +93,11 @@ cows/mutilated.cow:
 Copyright 1999 aspolito@csua.berkeley.edu
 Released under the same terms as cowsay
 
+cows/pony.cow, cows/pony-smaller.cow, cows/unipony.cow,
+cows/unipony-smaller.cow:
+Copyright 2010 Nick Daly <nick.m.daly@gmail.com>
+Released under the same terms as cowsay
+
 cows/skeleton.cow:
 Copyright 1999 {appel,kube,rowe}@csua.berkeley.edu
 Released under the same terms as cowsay

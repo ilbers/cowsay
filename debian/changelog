@@ -1,8 +1,9 @@
 cowsay (3.03+dfsg1-3) unstable; urgency=low
 
+  * Add ponies, thanks to Nick Daly (closes: #575317)
   * Bump debhelper compatibility to 8
 
- -- Francois Marier <francois@debian.org>  Wed, 22 Dec 2010 13:35:39 +1300
+ -- Francois Marier <francois@debian.org>  Wed, 22 Dec 2010 13:50:20 +1300
 
 cowsay (3.03+dfsg1-2) unstable; urgency=medium
 
