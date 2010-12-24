@@ -1,3 +1,9 @@
+cowsay (3.03+dfsg1-4) UNRELEASED; urgency=low
+
+  * Add a cowsay_random script under examples/
+
+ -- Francois Marier <francois@debian.org>  Fri, 24 Dec 2010 22:44:34 +1300
+
 cowsay (3.03+dfsg1-3) unstable; urgency=low
 
   * Add ponies, thanks to Nick Daly (closes: #575317)

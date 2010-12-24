@@ -121,3 +121,7 @@ Released under the same terms as cowsay
 cows/www.cow:
 Copyright 1999 lim@csua.berkeley.edu
 Released under the same terms as cowsay
+
+examples/cowsay_random
+Copyright 2010 Nick Daly
+Released under the GNU General Public License
