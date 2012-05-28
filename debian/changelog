@@ -1,6 +1,7 @@
 cowsay (3.03+dfsg1-4) unstable; urgency=low
 
   * Add a cowsay_random script under examples/
+  * Switch to a minimal debian/rules file
   * Bump debhelper compatibility to 9
   * Bump Standards-Version to 3.9.3
 
