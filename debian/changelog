@@ -2,10 +2,11 @@ cowsay (3.03+dfsg1-4) unstable; urgency=low
 
   * Add a cowsay_random script under examples/
   * Switch to a minimal debian/rules file
+  * Fix lintian warning about article in short description
   * Bump debhelper compatibility to 9
   * Bump Standards-Version to 3.9.3
 
- -- Francois Marier <francois@debian.org>  Fri, 24 Dec 2010 22:44:34 +1300
+ -- Francois Marier <francois@debian.org>  Mon, 28 May 2012 15:08:39 +1200
 
 cowsay (3.03+dfsg1-3) unstable; urgency=low
 
