@@ -1,6 +1,7 @@
 cowsay (3.03+dfsg1-6) unstable; urgency=low
 
   * Fix watch file and add upstream's GPG key
+  * Bump Standards-Version up to 3.9.5
 
  -- Francois Marier <francois@debian.org>  Sat, 01 Feb 2014 22:32:38 +1300
 
