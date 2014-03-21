@@ -3,6 +3,7 @@ Forwarded: no
 Origin: vendor, http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=404287#5
 Bug-Debian: http://bugs.debian.org/404287
 Author: Krishna Kumar <krish.kumar@gmail.com>
+Last-Update: 2014-03-21
 
 --- /dev/null
 +++ cowsay-3.03/cows/calvin.cow
@@ -14,7 +15,7 @@ Author: Krishna Kumar <krish.kumar@gmail.com>
 + $thoughts                   .,
 +   $thoughts         .      .TR   d'
 +     $thoughts      k,l    .R.b  .t .Je
-+       $thoughts   .P q.   a|.b .f .Z%		
++       $thoughts   .P q.   a|.b .f .Z%
 +           .b .h  .E` # J: 2`     .
 +      .,.a .E  ,L.M'  ?:b `| ..J9!`.,
 +       q,.h.M`   `..,   ..,""` ..2"`

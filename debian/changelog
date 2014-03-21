@@ -1,8 +1,9 @@
-cowsay (3.03+dfsg1-7) UNRELEASED; urgency=medium
+cowsay (3.03+dfsg1-8) unstable; urgency=medium
 
   * Fix "homepage" URL
+  * Remove tab characters from cow files (closes: #742286)
 
- -- Francois Marier <francois@debian.org>  Thu, 13 Feb 2014 08:43:20 +1300
+ -- Francois Marier <francois@debian.org>  Sat, 22 Mar 2014 11:10:21 +1300
 
 cowsay (3.03+dfsg1-6) unstable; urgency=low
 
