@@ -1,3 +1,9 @@
+cowsay (3.03+dfsg1-9) unstable; urgency=medium
+
+  * Remove upstream's GPG key since it's not valid in GPG2
+
+ -- Francois Marier <francois@debian.org>  Wed, 16 Jul 2014 12:10:14 +1200
+
 cowsay (3.03+dfsg1-8) unstable; urgency=medium
 
   * Fix "homepage" URL
