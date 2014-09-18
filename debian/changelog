@@ -1,6 +1,7 @@
 cowsay (3.03+dfsg1-10) unstable; urgency=medium
 
   * Bump Standards-Version up to 3.9.6
+  * Switch to a machine-readable copyright file
 
  -- Francois Marier <francois@debian.org>  Thu, 18 Sep 2014 22:25:00 +1200
 
