@@ -1,3 +1,10 @@
+cowsay (3.03+dfsg1-11) UNRELEASED; urgency=medium
+
+  * Remove watch file
+  * Update upstream URL to use the Wayback machine
+
+ -- Francois Marier <francois@debian.org>  Sat, 25 Apr 2015 22:29:52 +1200
+
 cowsay (3.03+dfsg1-10) unstable; urgency=medium
 
   * Bump Standards-Version up to 3.9.6

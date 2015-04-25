@@ -1,7 +1,7 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: cowsay
 Upstream-Contact: Tony Monroe <tony@nog.net>
-Source: http://www.nog.net/~tony/warez/cowsay.shtml
+Source: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
 
 Files: *
 Copyright: 1999-2000 Tony Monroe
