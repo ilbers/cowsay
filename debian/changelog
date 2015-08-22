@@ -1,7 +1,11 @@
-cowsay (3.03+dfsg1-11) UNRELEASED; urgency=medium
+cowsay (3.03+dfsg1-11) unstable; urgency=medium
 
+  [ Solveig ]
+  * Update upstream URL in debian/control (closes: #796580)
+
+  [ Francois Marier ]
   * Remove watch file
-  * Update upstream URL to use the Wayback machine
+  * Update upstream URL in debian/copyright
 
  -- Francois Marier <francois@debian.org>  Sat, 25 Apr 2015 22:29:52 +1200
 
