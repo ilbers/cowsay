@@ -1,9 +1,6 @@
 cowsay (3.03+dfsg1-12) unstable; urgency=medium
 
   * Adopt this package (closes: #777101)
-  * debian/control:
-    - new maintainer (Closes: #77101)
-    - new uploader
 
  -- Tony Maillefaud <maltouzes@gmail.com>  Thu, 03 Sep 2015 12:19:13 +0200
 
