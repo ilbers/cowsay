@@ -12,6 +12,7 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/cowsay.git;a=summa
 Package: cowsay
 Architecture: all
 Depends: ${misc:Depends}, ${perl:Depends}
+Recommends: cowsay-off
 Suggests: filters
 Description: configurable talking cow
  Cowsay (or cowthink) will turn text into happy ASCII cows, with

@@ -5,6 +5,7 @@
 	dh $@
 
 override_dh_auto_install:
+	install -D $(CURDIR)/cowsay/head-in $(CURDIR)/cowsay/mutilated $(CURDIR)/debian/cowsay-off/usr/games/cowsay
 	install -D $(CURDIR)/cowsay $(CURDIR)/debian/cowsay/usr/games/cowsay
 	install -d $(CURDIR)/debian/cowsay/usr/share/cowsay
 	cp -a $(CURDIR)/cows $(CURDIR)/debian/cowsay/usr/share/cowsay
