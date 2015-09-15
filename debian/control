@@ -20,3 +20,10 @@ Description: configurable talking cow
  available to replace it with some other creatures (Tux, the BSD
  daemon, dragons, and a plethora of animals, from a turkey to
  an elephant in a snake).
+
+Package: cowsay-off
+Architecture: all
+Depends: cowsay
+Description: Data files containing offensive cowwsay cows
+ This package contains cows witch some may consider to be offensive.
+ Please do not install this package if you or your users are easilly offended
