@@ -24,6 +24,13 @@ Description: configurable talking cow
 Package: cowsay-off
 Architecture: all
 Depends: cowsay
-Description: Data files containing offensive cowwsay cows
+Description: configurable talking cow (offensive cows)
+ Cowsay (or cowthink) will turn text into happy ASCII cows, with
+ speech (or thought) balloons. If you don't like cows, ASCII art is
+ available to replace it with some other creatures (Tux, the BSD
+ daemon, dragons, and a plethora of animals, from a turkey to
+ an elephant in a snake).
+
+ Data files containing offensive cowsay cows.
  This package contains cows witch some may consider to be offensive.
  Please do not install this package if you or your users are easilly offended
