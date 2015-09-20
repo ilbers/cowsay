@@ -30,7 +30,6 @@ Description: configurable talking cow (offensive cows)
  available to replace it with some other creatures (Tux, the BSD
  daemon, dragons, and a plethora of animals, from a turkey to
  an elephant in a snake).
-
- Data files containing offensive cowsay cows.
+ .
  This package contains cows witch some may consider to be offensive.
  Please do not install this package if you or your users are easilly offended
