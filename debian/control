@@ -23,7 +23,7 @@ Description: configurable talking cow
 
 Package: cowsay-off
 Architecture: all
-Depends: cowsay
+Depends: ${misc:Depends}, cowsay
 Description: configurable talking cow (offensive cows)
  Cowsay (or cowthink) will turn text into happy ASCII cows, with
  speech (or thought) balloons. If you don't like cows, ASCII art is
@@ -32,4 +32,4 @@ Description: configurable talking cow (offensive cows)
  an elephant in a snake).
  .
  This package contains cows witch some may consider to be offensive.
- Please do not install this package if you or your users are easilly offended
+ Please do not install this package if you or your users are easily offended
