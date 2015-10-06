@@ -23,8 +23,9 @@ Description: configurable talking cow
 
 Package: cowsay-off
 Architecture: all
-Depends: ${misc:Depends}, cowsay
+Depends: cowsay (>= 3.03+dfsg1-13), ${misc:Depends}
 Replaces: cowsay (<< 3.03+dfsg1-13)
+Breaks: cowsay(<< 3.03+dfsg1-13)
 Description: configurable talking cow (offensive cows)
  Cowsay (or cowthink) will turn text into happy ASCII cows, with
  speech (or thought) balloons. If you don't like cows, ASCII art is
