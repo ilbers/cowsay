@@ -1,3 +1,13 @@
+cowsay (3.03+dfsg1-14) UNRELEASED; urgency=medium
+
+  [ Tony Maillefaud ]
+  * Add patch 03-ansi_code_width_color_widechar.patch
+   - Good output format with widechar (closes: #769565)
+   - Ignore ANSI codes when determining message width (LP: #10270033)
+   - Good output with ANSI colour (LP: #1437804)
+
+ -- Tony Maillefaud <maltouzes@gmail.com>  Thu, 10 Dec 2015 09:17:59 +0100
+
 cowsay (3.03+dfsg1-13) unstable; urgency=medium
 
   [ Tony Maillefaud ]
