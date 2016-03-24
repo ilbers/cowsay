@@ -1,4 +1,4 @@
-cowsay (3.03+dfsg1-15) UNRELEASED; urgency=high
+cowsay (3.03+dfsg1-15) unstable; urgency=high
 
   * Add libtext-charwidth-perl Depends (closes: #819115)
 
