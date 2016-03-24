@@ -11,7 +11,7 @@ Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/cowsay.git/
 
 Package: cowsay
 Architecture: all
-Depends: ${misc:Depends}, ${perl:Depends}
+Depends: ${misc:Depends}, ${perl:Depends}, ${libtext-charwidth-perl:Depends}
 Recommends: cowsay-off
 Suggests: filters
 Description: configurable talking cow
