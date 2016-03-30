@@ -1,8 +1,10 @@
 cowsay (3.03+dfsg1-15) unstable; urgency=high
 
   * Add libtext-charwidth-perl Depends (closes: #819115)
+  * Change standards-version (3.9.7)
+  * Use secure vcs-git
 
- -- Tony Maillefaud <maltouzes@gmail.com>  Thu, 24 Mar 2016 09:29:49 +0100
+ -- Tony Maillefaud <maltouzes@gmail.com>  Tue, 29 Mar 2016 21:29:49 +0200
 
 cowsay (3.03+dfsg1-14) unstable; urgency=medium
 
