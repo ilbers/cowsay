@@ -1,6 +1,7 @@
 cowsay (3.03+dfsg1-16) unstable; urgency=medium
 
-  * fix typo (closes: #819774)
+  * Fix typo (closes: #819774)
+  * Change standards-version (3.9.8)
 
  -- Tony Maillefaud <maltouzes@gmail.com>  Tue, 24 May 2016 11:00:59 +0200
 
