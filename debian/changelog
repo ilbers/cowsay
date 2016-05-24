@@ -1,3 +1,9 @@
+cowsay (3.03+dfsg1-16) unstable; urgency=medium
+
+  * fix typo (closes: #819774)
+
+ -- Tony Maillefaud <maltouzes@gmail.com>  Tue, 24 May 2016 11:00:59 +0200
+
 cowsay (3.03+dfsg1-15) unstable; urgency=high
 
   * Add libtext-charwidth-perl Depends (closes: #819115)
