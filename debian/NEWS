@@ -1,0 +1,5 @@
+cowsay (3.03+dfsg1-17) unstable; urgency=medium
+
+  Since cowsay 3.03+dfsg1-13 cowsay was split in two packages (e.g cowsay and cowsay-off). cowsay-off package contains cows which some may consider to be offencive.
+
+ -- Tony Maillefaud <maltouzes@gmail.com>  Sun, 27 Nov 2016 13:56:26 +0100

@@ -1,3 +1,10 @@
+cowsay (3.03+dfsg1-17) UNRELEASED; urgency=medium
+
+  * Update copyright (closes: #367347, #592917)
+  * Add NEWS file (closes: #842801)
+
+ -- Tony Maillefaud <maltouzes@gmail.com>  Sun, 27 Nov 2016 13:56:26 +0100
+
 cowsay (3.03+dfsg1-16) unstable; urgency=medium
 
   * Fix typo (closes: #819774)
