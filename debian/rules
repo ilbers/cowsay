@@ -11,3 +11,5 @@ override_dh_auto_install:
 	install -d $(CURDIR)/debian/cowsay-off/usr/share/cowsay/cows
 	mv $(CURDIR)/debian/cowsay/usr/share/cowsay/cows/head-in.cow $(CURDIR)/debian/cowsay/usr/share/cowsay/cows/mutilated.cow $(CURDIR)/debian/cowsay/usr/share/cowsay/cows/sodomized-sheep.cow $(CURDIR)/debian/cowsay-off/usr/share/cowsay/cows
 	rm $(CURDIR)/debian/cowsay/usr/share/cowsay/cows/mech-and-cow
+	rm $(CURDIR)/debian/cowsay/usr/share/cowsay/cows/meow.cow
+	rm $(CURDIR)/debian/cowsay/usr/share/cowsay/cows/kitty.cow
