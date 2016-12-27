@@ -75,10 +75,6 @@ Files: cows/www.cow
 Copyright: 1999 lim@csua.berkeley.edu
 License: COWSAY
 
-Files: cows/kitty.cow cows/meow.cow
-Copyright: 1995 Felix Lee
-License: COWSAY
-
 Files: debian/*
 Copyright: 2015-2016 Tony Maillefaud <maltouzes@gmail.com>
            2010-2016 Francois Marier <francois@debian.org>
