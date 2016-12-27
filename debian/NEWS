@@ -1,4 +1,4 @@
-cowsay (3.03+dfsg1-17) unstable; urgency=medium
+cowsay (3.03+dfsg2-1) unstable; urgency=medium
 
   Since cowsay 3.03+dfsg1-13, cowsay is now split into two packages:
   cowsay and cowsay-off. cowsay contains the binaries as well as the
@@ -9,4 +9,4 @@ cowsay (3.03+dfsg1-17) unstable; urgency=medium
   which have been moved to cowsay-off. If that's the case, you'll need
   to install that package to continue using them.
 
- -- Tony Maillefaud <maltouzes@gmail.com>  Sun, 27 Nov 2016 13:56:26 +0100
+ -- Tony Maillefaud <maltouzes@gmail.com>  Tue, 27 Dec 2016 11:00:26 +0200
