@@ -1,6 +1,6 @@
-cowsay (3.03+dfsg2-1) UNRELEASED; urgency=medium
+cowsay (3.03+dfsg2-1) unstable; urgency=medium
 
-  * Remove cows copyright issues (closes: #367347, #592917)
+  * Remove cows (meow and kitty) with unclear licensing (closes: #367347, #592917)
   * Add NEWS file (closes: #842801)
 
  -- Tony Maillefaud <maltouzes@gmail.com>  Tue, 27 Dec 2016 11:00:59 +0200
