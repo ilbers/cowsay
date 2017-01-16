@@ -1,7 +1,7 @@
 cowsay (3.03+dfsg2-3) unstable; urgency=high
 
   * Update Depends, Replaces and Breaks version
-   - bong.cow and beavis.zen.cow owned by cowsay and cowsay-off (closes: #851552)
+   - bong and beavis owned by cowsay and cowsay-off (closes: #851552)
 
  -- Tony Maillefaud <maltouzes@gmail.com>  Mon, 16 Jan 2017 21:23:47 +0100
 
