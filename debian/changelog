@@ -55,7 +55,7 @@ cowsay (3.03+dfsg1-14) unstable; urgency=medium
 cowsay (3.03+dfsg1-13) unstable; urgency=medium
 
   [ Tony Maillefaud ]
-  * Add cowsay-off package (closes: #769194) 
+  * Add cowsay-off package (closes: #769194)
 
   [ Francois Marier ]
   * Update VCS-Browser URL
