@@ -5,7 +5,7 @@ Maintainer: Tony Maillefaud <maltouzes@gmail.com>
 Uploaders: Francois Marier <francois@debian.org>
 Build-Depends: debhelper (>= 9)
 Homepage: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
-Standards-Version: 3.9.8
+Standards-Version: 4.1.1
 Vcs-git: https://anonscm.debian.org/git/collab-maint/cowsay.git
 Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/cowsay.git/
 
