@@ -1,3 +1,10 @@
+cowsay (3.03+dfsg2-4) unstable; urgency=medium
+
+  * Cowsay-off
+   - Use suggests field instead of Recommends (closes: #882085)
+
+ -- Tony Maillefaud <maltouzes@gmail.com>  Wed, 22 Nov 2017 18:17:38 +0100
+
 cowsay (3.03+dfsg2-3) unstable; urgency=high
 
   * Update Depends, Replaces and Breaks version
