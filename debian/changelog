@@ -1,3 +1,9 @@
+cowsay (3.03+dfsg2-5) unstable; urgency=medium
+
+  * remove controversial cows from cowsay-off
+
+ -- Tony Maillefaud <maltouzes@gmail.com>  Wed, 29 Nov 2017 18:01:56 +0100
+
 cowsay (3.03+dfsg2-4) unstable; urgency=medium
 
   * Cowsay-off
