@@ -13,6 +13,8 @@ Package: cowsay
 Architecture: all
 Depends: libtext-charwidth-perl, ${misc:Depends}, ${perl:Depends}
 Suggests: filters, cowsay-off
+Replaces: cowsay-off (<< 3.03+dfsg2-5)
+Breaks: cowsay-off (<< 3.03+dfsg2-5)
 Description: configurable talking cow
  Cowsay (or cowthink) will turn text into happy ASCII cows, with
  speech (or thought) balloons. If you don't like cows, ASCII art is
@@ -22,9 +24,9 @@ Description: configurable talking cow
 
 Package: cowsay-off
 Architecture: all
-Depends: cowsay (>= 3.03+dfsg2-3), ${misc:Depends}
-Replaces: cowsay (<< 3.03+dfsg2-3)
-Breaks: cowsay(<< 3.03+dfsg2-3)
+Depends: cowsay (>= 3.03+dfsg2-5), ${misc:Depends}
+Replaces: cowsay (<< 3.03+dfsg2-5)
+Breaks: cowsay(<< 3.03+dfsg2-5)
 Description: configurable talking cow (offensive cows)
  Cowsay (or cowthink) will turn text into happy ASCII cows, with
  speech (or thought) balloons. If you don't like cows, ASCII art is

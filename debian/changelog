@@ -1,4 +1,4 @@
-cowsay (3.03+dfsg2-5) unstable; urgency=medium
+cowsay (3.03+dfsg2-5) UNRELEASED; urgency=medium
 
   * remove controversial cows from cowsay-off
 
