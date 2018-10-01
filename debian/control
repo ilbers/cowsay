@@ -1,8 +1,7 @@
 Source: cowsay
 Section: games
 Priority: optional
-Maintainer: Tony Maillefaud <maltouzes@gmail.com>
-Uploaders: Francois Marier <francois@debian.org>
+Maintainer: Debian QA Group <packages@qa.debian.org>
 Build-Depends: debhelper (>= 11)
 Homepage: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
 Standards-Version: 4.1.1

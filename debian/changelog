@@ -8,8 +8,9 @@ cowsay (3.03+dfsg2-5) unstable; urgency=medium
   * Bump debhelper compat to 11
   * Use HTTPS copyright URL in debian/copyright
   * Bump copyright years in debian/copyright
+  * Orphan the package at Tony's request (see #910035)
 
- -- Tony Maillefaud <maltouzes@gmail.com>  Wed, 29 Nov 2017 18:01:56 +0100
+ -- Francois Marier <francois@debian.org>  Mon, 01 Oct 2018 10:48:07 -0700
 
 cowsay (3.03+dfsg2-4) unstable; urgency=medium
 
