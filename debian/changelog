@@ -2,6 +2,7 @@ cowsay (3.03+dfsg2-7) unstable; urgency=medium
 
   * New maintainer (closes: #910035)
   * Fix lintian warning about spelling of 'balloons' in patch
+  * Add fox cow (closes: #888229)
 
  -- James McDonald <james@jamesmcdonald.com>  Mon, 28 Oct 2019 09:43:46 +0100
 

@@ -31,6 +31,10 @@ Files: cows/flaming-sheep.cow
 Copyright: 1999 Geordan Rosario <geordan@csua.berkeley.edu>
 License: COWSAY
 
+Files: cows/fox.cow
+Copyright: 2019 Hansen Wu <hansen.wu.85@gmail.com>
+License: COWSAY
+
 Files: cows/gnu.cow cows/suse.cow
 Copyright: 2006 Gerfried Fuchs <rhonda@deb.at>
 License: WTFPL-2
