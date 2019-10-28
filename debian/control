@@ -2,7 +2,7 @@ Source: cowsay
 Section: games
 Priority: optional
 Maintainer: James McDonald <james@jamesmcdonald.com>
-Build-Depends: debhelper (>= 11)
+Build-Depends: debhelper (>= 12)
 Homepage: https://web.archive.org/web/20120527202447/http://www.nog.net/~tony/warez/cowsay.shtml
 Standards-Version: 4.4.1
 Vcs-git: https://salsa.debian.org/debian/cowsay.git
