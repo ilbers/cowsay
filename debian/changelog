@@ -1,3 +1,9 @@
+cowsay (3.03+dfsg2-7) unstable; urgency=medium
+
+  * New maintainer (closes: #910035)
+
+ -- James McDonald <james@jamesmcdonald.com>  Mon, 28 Oct 2019 09:43:46 +0100
+
 cowsay (3.03+dfsg2-6) unstable; urgency=medium
 
   * QA upload.
